@@ -7,7 +7,7 @@ body {
 
 .herobg {
    background-color: #DBE9F9;
-    height:calc(100vh - 78px);
+    height:calc(100vh - 5px);
     background-image: url(./Images/BG_ShapeFinal.svg);
      background-repeat: no-repeat;
      background-position: right;
@@ -15,7 +15,7 @@ body {
 
 .hero-image {
     position: relative;
-    margin-top: 80px;
+    margin-top: 110px;
      }
 .hero-image img{
     transition: 300ms;
